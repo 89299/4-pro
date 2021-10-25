@@ -32,7 +32,9 @@
 
 $ pkg install python2 git
 
-$ pip2 install requests bs4
+$ pip2 install requests bs4 
+
+$ pkg install lolcat
 
 $ git clone https://github.com/S-O-M-i/4-pro.git
 
