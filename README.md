@@ -1,4 +1,6 @@
 # FACEBOOK CLONING TOOL 4-pro
+![20200808_160757](https://github.com/S-O-M-i/4-pro/blob/main/PicsArt_11-02-07.33.49.jpg)
+
 
 ```php
 
@@ -6,7 +8,7 @@
 
 * Facebook Cloning
 
-* Uid cloning tool
+* File cloning tool
 
 * Easy method
 
@@ -40,7 +42,7 @@ $ git clone https://github.com/S-O-M-i/4-pro.git
 
 $ cd 4-pro
 
-$ python2 Brand.py
+$ python2 Somibrand.py
 
 ```
 
@@ -48,7 +50,7 @@ $ python2 Brand.py
 
 ```php
 
-* File Cloning Comming soon
+* Comming soon
 
 ```
 
